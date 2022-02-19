@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "719c2adf-85d5-4025-b39d-a9e3c1cc220f": {
+      "ProjectGuid": "719c2adf-85d5-4025-b39d-a9e3c1cc220f",
+      "DisplayName": "ATMmachine",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
